@@ -30,20 +30,6 @@ Bir tıkla zarları at, kazananı gör ve projeyi GitHub üzerinden keşfet. �
 
 ---
 
-## 📁 Proje Yapısı
 
-DiceGame/
-├── index.html # Giriş / tanıtım sayfası
-├── dicee.html # Oyun sayfası
-├── about.html # Hakkında sayfası
-├── styles.css # Ortak stil dosyası (animasyonlu arka plan, renk geçişleri)
-├── index.js # Zar atma fonksiyonu ve DOM güncellemeleri
-└── images/
-├── dice1.png
-├── dice2.png
-├── dice3.png
-├── dice4.png
-├── dice5.png
-└── dice6.png
 
 
