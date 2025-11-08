@@ -6,9 +6,8 @@ Bir tıkla zarları at, kazananı gör ve projeyi GitHub üzerinden keşfet. �
 ---
 
 ## 🌐 Canlı Demo
-🔗 [Dice Game'ı Deneyin](https://<kendi-github-kullanıcı-adın>.github.io/DiceGame/)  
+🔗 [Dice Game'ı Deneyin](https://emir-mutlu.github.io/DiceGame-2025-Website/)
 
----
 
 ## 🕹️ Özellikler
 
