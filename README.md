@@ -1,34 +1,29 @@
 # 🎲 Dice Game
 
-Basit bir zar oyunu gibi görünebilir ama arkasında **JavaScript**, **DOM manipülasyonu** ve **modern bir arayüz tasarımı** var.  
-Bir tıkla zarları at, kazananı gör ve projeyi GitHub üzerinden keşfet. 🚀
+It may look like a simple dice game, but behind it lies **JavaScript**, **DOM manipulation**, and **modern interface design**.  
+Roll the dice with a single click, see who wins, and explore the project on GitHub. 🚀
 
 ---
 
-## 🌐 Canlı Demo
-🔗 [Dice Game'ı Deneyin](https://emir-mutlu.github.io/DiceGame-2025-Website/)
+## 🌐 Live Demo
+🔗 [Try Dice Game](https://emir-mutlu.github.io/DiceGame-2025-Website/)
 
+## 🕹️ Features
 
-## 🕹️ Özellikler
-
-✨ **Modern Arayüz:** Renk teorisine uygun canlı degrade geçişleri, cam efekti (glassmorphism) ve responsive yapı.  
-🎯 **Basit Oynanış:** "Zar At" butonuna tıkla, rastgele sonuçlar otomatik hesaplanır.  
-⚙️ **Vanilla JavaScript:** Hiçbir framework kullanılmadan saf JS ile DOM üzerinde tam kontrol.  
-🎨 **Color Theory Paleti:** Neon yeşil, mor ve pembe tonlarla modern ve enerjik görünüm.  
-🧩 **Çok Sayfalı Mimari:** Ana sayfa, oyun sayfası ve hakkında bölümü — profesyonel bir site yapısı.
-
----
-
-## 🧠 Kullanılan Teknolojiler
-
-| Teknoloji | Açıklama |
-|------------|-----------|
-| **HTML5** | Sayfa yapısı ve içerik düzeni |
-| **CSS3** | Animasyonlu degrade arka plan, buton efektleri, glassmorphism |
-| **JavaScript (Vanilla)** | Zar değerlerini rastgele oluşturur, DOM elementlerini günceller |
+✨ **Modern Interface:** Vibrant color transitions aligned with color theory, glassmorphism effects, and a fully responsive layout.  
+🎯 **Simple Gameplay:** Click the “Roll Dice” button — random results are automatically calculated.  
+⚙️ **Vanilla JavaScript:** Built entirely with pure JS, providing full control over the DOM without any frameworks.  
+🎨 **Color Theory Palette:** Modern and energetic look with neon green, purple, and pink tones.  
+🧩 **Multi-Page Architecture:** Includes home, game, and about sections — giving it a professional website structure.
 
 ---
 
+## 🧠 Technologies Used
 
+| Technology | Description |
+|-------------|-------------|
+| **HTML5** | Defines the page structure and content layout |
+| **CSS3** | Animated gradient backgrounds, button effects, and glassmorphism |
+| **JavaScript (Vanilla)** | Generates random dice values and updates DOM elements |
 
-
+---
